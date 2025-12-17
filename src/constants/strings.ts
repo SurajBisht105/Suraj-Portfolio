@@ -23,9 +23,9 @@ class Strings {
   static twitterLink = "https://www.twitter.com/Its_suraj_bisht";
   static twitterUsername = "Its_suraj_bisht";
 
-  static email = "Email";
-  static primaryEmailLink = "mailto:bishtsuraj087@gmail.com";
-  static primaryEmail = ":bishtsuraj087@gmail.com";
+static email = "Email";
+static primaryEmailLink = "mailto:bishtsuraj087@gmail.com";
+static primaryEmail = "bishtsuraj087@gmail.com";  
 
   // static buyMeACoffee = "BuyMeACoffee";
   // static buyMeACoffeeLink = "https://buymeacoffee.com/suraj";
