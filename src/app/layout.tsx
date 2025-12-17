@@ -25,7 +25,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Suraj Bist",
+  title: "Suraj Bisht",
   description:
     "Suraj Bist is a proficient Full Stack Developer with Gen AI from India, skilled in front-end and back-end development using modern tech stacks.",
   robots: {
