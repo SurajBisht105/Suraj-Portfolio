@@ -4,7 +4,7 @@ class Strings {
   static telegramUsername = "surajbisht";
 
    static resume = "Resume";
-  static resumeLink = "https://drive.google.com/file/d/192XoRPWMGLi4yIha62CCv6jqbcb8SFzB/view";
+  static resumeLink = "https://drive.google.com/file/d/162jOWYEda8wyPDEjPFT16xA1pWHIqpEE/view?usp=sharing";
   static resumeUsername = "Resume";
 
   static github = "GitHub";
